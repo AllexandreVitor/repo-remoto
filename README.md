@@ -1,4 +1,4 @@
 # repo-remoto
-Repositório remoto criado para testar uma atividade.
+Repositório remoto depois do clone
 
-Fazendo commit antes do clone.
+Fazendo commit depois do clone.
