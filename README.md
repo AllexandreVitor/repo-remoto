@@ -1,4 +1,3 @@
-# repo-remoto
-Repositório remoto criado para testar uma atividade.
+# repo-local
 
-Fazendo commit antes do clone.
+descrição inserida no repositório local depois do clone
